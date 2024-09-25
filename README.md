@@ -69,6 +69,8 @@
 | **[Triton Inference Server](https://github.com/triton-inference-server/server)** | ![Stars](https://img.shields.io/github/stars/triton-inference-server/server.svg) | ![Release](https://img.shields.io/github/release/triton-inference-server/server) | ![Contributors](https://img.shields.io/github/contributors/triton-inference-server/server) | The Triton Inference Server provides an optimized cloud and edge inferencing solution. | |
 | **[Text Generation Inference](https://github.com/huggingface/text-generation-inference)** | ![Stars](https://img.shields.io/github/stars/huggingface/text-generation-inference.svg) | ![Release](https://img.shields.io/github/release/huggingface/text-generation-inference) | ![Contributors](https://img.shields.io/github/contributors/huggingface/text-generation-inference) | Large Language Model Text Generation Inference | |
 | **[vLLM](https://github.com/vllm-project/vllm)** | ![Stars](https://img.shields.io/github/stars/vllm-project/vllm.svg) | ![Release](https://img.shields.io/github/release/vllm-project/vllm) | ![Contributors](https://img.shields.io/github/contributors/vllm-project/vllm) | A high-throughput and memory-efficient inference and serving engine for LLMs | |
+| **[TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)** | ![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM) | ![GitHub Release](https://img.shields.io/github/v/release/NVIDIA/TensorRT-LLM) | ![GitHub contributors](https://img.shields.io/github/contributors/NVIDIA/TensorRT-LLM) | TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs.||
+
 
 ## Training
 
